@@ -9,7 +9,335 @@
         "documentation": {}
     },
     {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocket",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocketDisconnect",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "crud",
+        "importPath": "app.auth",
+        "description": "app.auth",
+        "isExtraImport": true,
+        "detail": "app.auth",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "importPath": "app.auth",
+        "description": "app.auth",
+        "isExtraImport": true,
+        "detail": "app.auth",
+        "documentation": {}
+    },
+    {
+        "label": "security",
+        "importPath": "app.auth",
+        "description": "app.auth",
+        "isExtraImport": true,
+        "detail": "app.auth",
+        "documentation": {}
+    },
+    {
+        "label": "UserInDB",
+        "importPath": "app.auth.models",
+        "description": "app.auth.models",
+        "isExtraImport": true,
+        "detail": "app.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "app.auth.models",
+        "description": "app.auth.models",
+        "isExtraImport": true,
+        "detail": "app.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserInDB",
+        "importPath": "app.auth.models",
+        "description": "app.auth.models",
+        "isExtraImport": true,
+        "detail": "app.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "TokenData",
+        "importPath": "app.auth.models",
+        "description": "app.auth.models",
+        "isExtraImport": true,
+        "detail": "app.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "TokenData",
+        "importPath": "app.auth.models",
+        "description": "app.auth.models",
+        "isExtraImport": true,
+        "detail": "app.auth.models",
+        "documentation": {}
+    },
+    {
         "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -81,99 +409,35 @@
         "documentation": {}
     },
     {
-        "label": "APIRouter",
-        "importPath": "fastapi",
-        "description": "fastapi",
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
         "isExtraImport": true,
-        "detail": "fastapi",
+        "detail": "typing",
         "documentation": {}
     },
     {
-        "label": "APIRouter",
-        "importPath": "fastapi",
-        "description": "fastapi",
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
         "isExtraImport": true,
-        "detail": "fastapi",
+        "detail": "typing",
         "documentation": {}
     },
     {
-        "label": "WebSocket",
-        "importPath": "fastapi",
-        "description": "fastapi",
+        "label": "get_current_user",
+        "importPath": "app.auth.dependencies",
+        "description": "app.auth.dependencies",
         "isExtraImport": true,
-        "detail": "fastapi",
+        "detail": "app.auth.dependencies",
         "documentation": {}
     },
     {
-        "label": "WebSocketDisconnect",
-        "importPath": "fastapi",
-        "description": "fastapi",
+        "label": "role_required",
+        "importPath": "app.auth.dependencies",
+        "description": "app.auth.dependencies",
         "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "Request",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "Response",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "Request",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "Response",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "FastAPI",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "Request",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "Response",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
-        "documentation": {}
-    },
-    {
-        "label": "FastAPI",
-        "importPath": "fastapi",
-        "description": "fastapi",
-        "isExtraImport": true,
-        "detail": "fastapi",
+        "detail": "app.auth.dependencies",
         "documentation": {}
     },
     {
@@ -194,30 +458,67 @@
         "documentation": {}
     },
     {
-        "label": "ast",
-        "kind": 6,
+        "label": "TokenData",
+        "importPath": "nea_backend.nea_backend.app.auth.models",
+        "description": "nea_backend.nea_backend.app.auth.models",
         "isExtraImport": true,
-        "importPath": "ast",
-        "description": "ast",
-        "detail": "ast",
+        "detail": "nea_backend.nea_backend.app.auth.models",
         "documentation": {}
     },
     {
-        "label": "os",
-        "kind": 6,
+        "label": "get_password_hash",
+        "importPath": "app.auth.security",
+        "description": "app.auth.security",
         "isExtraImport": true,
-        "importPath": "os",
-        "description": "os",
-        "detail": "os",
+        "detail": "app.auth.security",
         "documentation": {}
     },
     {
-        "label": "secrets",
-        "kind": 6,
+        "label": "verify_password",
+        "importPath": "app.auth.security",
+        "description": "app.auth.security",
         "isExtraImport": true,
-        "importPath": "secrets",
-        "description": "secrets",
-        "detail": "secrets",
+        "detail": "app.auth.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_token",
+        "importPath": "app.auth.security",
+        "description": "app.auth.security",
+        "isExtraImport": true,
+        "detail": "app.auth.security",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "importPath": "app.auth.security",
+        "description": "app.auth.security",
+        "isExtraImport": true,
+        "detail": "app.auth.security",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "importPath": "app.auth.schemas",
+        "description": "app.auth.schemas",
+        "isExtraImport": true,
+        "detail": "app.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
         "documentation": {}
     },
     {
@@ -285,6 +586,57 @@
         "documentation": {}
     },
     {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "ast",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ast",
+        "description": "ast",
+        "detail": "ast",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "secrets",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "secrets",
+        "description": "secrets",
+        "detail": "secrets",
+        "documentation": {}
+    },
+    {
         "label": "as_declarative",
         "importPath": "sqlalchemy.ext.declarative",
         "description": "sqlalchemy.ext.declarative",
@@ -294,6 +646,14 @@
     },
     {
         "label": "declared_attr",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
         "importPath": "sqlalchemy.ext.declarative",
         "description": "sqlalchemy.ext.declarative",
         "isExtraImport": true,
@@ -473,6 +833,22 @@
         "documentation": {}
     },
     {
+        "label": "ocpp",
+        "importPath": "app.api",
+        "description": "app.api",
+        "isExtraImport": true,
+        "detail": "app.api",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "app.api",
+        "description": "app.api",
+        "isExtraImport": true,
+        "detail": "app.api",
+        "documentation": {}
+    },
+    {
         "label": "uvicorn",
         "kind": 6,
         "isExtraImport": true,
@@ -503,6 +879,62 @@
         "description": "nea_backend.app.version",
         "isExtraImport": true,
         "detail": "nea_backend.app.version",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "nea_backend.nea_backend.main",
+        "description": "nea_backend.nea_backend.main",
+        "isExtraImport": true,
+        "detail": "nea_backend.nea_backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "nea_backend.nea_backend.main",
+        "description": "nea_backend.nea_backend.main",
+        "isExtraImport": true,
+        "detail": "nea_backend.nea_backend.main",
         "documentation": {}
     },
     {
@@ -609,30 +1041,6 @@
         "description": "unittest",
         "isExtraImport": true,
         "detail": "unittest",
-        "documentation": {}
-    },
-    {
-        "label": "TestClient",
-        "importPath": "fastapi.testclient",
-        "description": "fastapi.testclient",
-        "isExtraImport": true,
-        "detail": "fastapi.testclient",
-        "documentation": {}
-    },
-    {
-        "label": "TestClient",
-        "importPath": "fastapi.testclient",
-        "description": "fastapi.testclient",
-        "isExtraImport": true,
-        "detail": "fastapi.testclient",
-        "documentation": {}
-    },
-    {
-        "label": "TestClient",
-        "importPath": "fastapi.testclient",
-        "description": "fastapi.testclient",
-        "isExtraImport": true,
-        "detail": "fastapi.testclient",
         "documentation": {}
     },
     {
@@ -989,6 +1397,15 @@
         "documentation": {}
     },
     {
+        "label": "router",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.api.auth",
+        "description": "nea_backend.nea_backend.app.api.auth",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/token\", response_model=Token)\nasync def login(form_data: OAuth2PasswordRequestForm = Depends()):\n    user = crud.authenticate_user(form_data.username, form_data.password)\n    if not user:\n        raise HTTPException(\n            status_code=401, detail=\"Incorrect username or password\"\n        )\n    access_token_expires = datetime.timedelta(minutes=security.ACCESS_TOKEN_EXPIRE_MINUTES)\n    access_token = security.create_access_token(",
+        "detail": "nea_backend.nea_backend.app.api.auth",
+        "documentation": {}
+    },
+    {
         "label": "base_router",
         "kind": 5,
         "importPath": "nea_backend.nea_backend.app.api.base",
@@ -1002,8 +1419,251 @@
         "kind": 5,
         "importPath": "nea_backend.nea_backend.app.api.ocpp",
         "description": "nea_backend.nea_backend.app.api.ocpp",
-        "peekOfCode": "router = APIRouter()\n@router.websocket(\"/ws/ocpp\")\nasync def websocket_endpoint(websocket: WebSocket):\n    await websocket.accept()\n    ocpp_protocol = MyOCPPProtocol(websocket)\n    try:\n        while True:\n            data = await websocket.receive_text()\n            message = json.loads(data)\n            await ocpp_protocol.handle_message(message)",
+        "peekOfCode": "router = APIRouter()\n@router.websocket(\"/ws/ocpp\")\nasync def websocket_endpoint(websocket: WebSocket, current_user: TokenData = Depends(get_current_user)):\n    await websocket.accept()\n    ocpp_protocol = MyOCPPProtocol(websocket)\n    try:\n        while True:\n            data = await websocket.receive_text()\n            message = json.loads(data)\n            await ocpp_protocol.handle_message(message)",
         "detail": "nea_backend.nea_backend.app.api.ocpp",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "nea_backend.nea_backend.app.auth.crud",
+        "description": "nea_backend.nea_backend.app.auth.crud",
+        "peekOfCode": "def create_user(user: UserCreate) -> UserInDB:\n    hashed_password = get_password_hash(user.password)\n    db_user = UserInDB(\n        id=len(db_users) + 1,\n        username=user.username,\n        email=user.email,\n        hashed_password=hashed_password,\n        role=user.role\n    )\n    db_users[db_user.id] = db_user",
+        "detail": "nea_backend.nea_backend.app.auth.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "nea_backend.nea_backend.app.auth.crud",
+        "description": "nea_backend.nea_backend.app.auth.crud",
+        "peekOfCode": "def get_user(username: str) -> Optional[UserInDB]:\n    for user in db_users.values():\n        if user.username == username:\n            return user\n    return None\ndef authenticate_user(username: str, password: str) -> Optional[UserInDB]:\n    user = get_user(username)\n    if user and verify_password(password, user.hashed_password):\n        return user\n    return None",
+        "detail": "nea_backend.nea_backend.app.auth.crud",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_user",
+        "kind": 2,
+        "importPath": "nea_backend.nea_backend.app.auth.crud",
+        "description": "nea_backend.nea_backend.app.auth.crud",
+        "peekOfCode": "def authenticate_user(username: str, password: str) -> Optional[UserInDB]:\n    user = get_user(username)\n    if user and verify_password(password, user.hashed_password):\n        return user\n    return None",
+        "detail": "nea_backend.nea_backend.app.auth.crud",
+        "documentation": {}
+    },
+    {
+        "label": "db_users",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.auth.crud",
+        "description": "nea_backend.nea_backend.app.auth.crud",
+        "peekOfCode": "db_users = {}\ndef create_user(user: UserCreate) -> UserInDB:\n    hashed_password = get_password_hash(user.password)\n    db_user = UserInDB(\n        id=len(db_users) + 1,\n        username=user.username,\n        email=user.email,\n        hashed_password=hashed_password,\n        role=user.role\n    )",
+        "detail": "nea_backend.nea_backend.app.auth.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "nea_backend.nea_backend.app.auth.dependencies",
+        "description": "nea_backend.nea_backend.app.auth.dependencies",
+        "peekOfCode": "def get_current_user(token: str = Depends(oauth2_scheme)) -> TokenData:\n    return verify_token(token)\ndef get_current_active_user(current_user: TokenData = Depends(get_current_user)) -> TokenData:\n    if current_user.role not in [\"admin\", \"user\"]:  # Adjust roles as needed\n        raise HTTPException(\n            status_code=status.HTTP_403_FORBIDDEN,\n            detail=\"Not enough permissions\",\n        )\n    return current_user\ndef role_required(required_role: str):",
+        "detail": "nea_backend.nea_backend.app.auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_active_user",
+        "kind": 2,
+        "importPath": "nea_backend.nea_backend.app.auth.dependencies",
+        "description": "nea_backend.nea_backend.app.auth.dependencies",
+        "peekOfCode": "def get_current_active_user(current_user: TokenData = Depends(get_current_user)) -> TokenData:\n    if current_user.role not in [\"admin\", \"user\"]:  # Adjust roles as needed\n        raise HTTPException(\n            status_code=status.HTTP_403_FORBIDDEN,\n            detail=\"Not enough permissions\",\n        )\n    return current_user\ndef role_required(required_role: str):\n    def role_checker(current_user: TokenData = Depends(get_current_user)):\n        if current_user.role != required_role:",
+        "detail": "nea_backend.nea_backend.app.auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "role_required",
+        "kind": 2,
+        "importPath": "nea_backend.nea_backend.app.auth.dependencies",
+        "description": "nea_backend.nea_backend.app.auth.dependencies",
+        "peekOfCode": "def role_required(required_role: str):\n    def role_checker(current_user: TokenData = Depends(get_current_user)):\n        if current_user.role != required_role:\n            raise HTTPException(\n                status_code=status.HTTP_403_FORBIDDEN,\n                detail=\"Not enough permissions\",\n            )\n        return current_user\n    return role_checker",
+        "detail": "nea_backend.nea_backend.app.auth.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidCredentialsException",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.auth.exceptions",
+        "description": "nea_backend.nea_backend.app.auth.exceptions",
+        "peekOfCode": "class InvalidCredentialsException(HTTPException):\n    def __init__(self):\n        super().__init__(\n            status_code=status.HTTP_401_UNAUTHORIZED,\n            detail=\"Invalid credentials\",\n            headers={\"WWW-Authenticate\": \"Bearer\"},\n        )\nclass UnauthorizedException(HTTPException):\n    def __init__(self):\n        super().__init__(",
+        "detail": "nea_backend.nea_backend.app.auth.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UnauthorizedException",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.auth.exceptions",
+        "description": "nea_backend.nea_backend.app.auth.exceptions",
+        "peekOfCode": "class UnauthorizedException(HTTPException):\n    def __init__(self):\n        super().__init__(\n            status_code=status.HTTP_403_FORBIDDEN,\n            detail=\"Not enough permissions\",\n        )",
+        "detail": "nea_backend.nea_backend.app.auth.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.auth.models",
+        "description": "nea_backend.nea_backend.app.auth.models",
+        "peekOfCode": "class User(BaseModel):\n    id: int\n    username: str\n    email: str\n    role: str\nclass UserInDB(User):\n    hashed_password: str\nclass Role(BaseModel):\n    name: str\n    permissions: List[str]",
+        "detail": "nea_backend.nea_backend.app.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserInDB",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.auth.models",
+        "description": "nea_backend.nea_backend.app.auth.models",
+        "peekOfCode": "class UserInDB(User):\n    hashed_password: str\nclass Role(BaseModel):\n    name: str\n    permissions: List[str]\nclass Token(BaseModel):\n    access_token: str\n    token_type: str\nclass TokenData(BaseModel):\n    username: str",
+        "detail": "nea_backend.nea_backend.app.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.auth.models",
+        "description": "nea_backend.nea_backend.app.auth.models",
+        "peekOfCode": "class Role(BaseModel):\n    name: str\n    permissions: List[str]\nclass Token(BaseModel):\n    access_token: str\n    token_type: str\nclass TokenData(BaseModel):\n    username: str\n    role: str",
+        "detail": "nea_backend.nea_backend.app.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.auth.models",
+        "description": "nea_backend.nea_backend.app.auth.models",
+        "peekOfCode": "class Token(BaseModel):\n    access_token: str\n    token_type: str\nclass TokenData(BaseModel):\n    username: str\n    role: str",
+        "detail": "nea_backend.nea_backend.app.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "TokenData",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.auth.models",
+        "description": "nea_backend.nea_backend.app.auth.models",
+        "peekOfCode": "class TokenData(BaseModel):\n    username: str\n    role: str",
+        "detail": "nea_backend.nea_backend.app.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.auth.schemas",
+        "description": "nea_backend.nea_backend.app.auth.schemas",
+        "peekOfCode": "class UserCreate(BaseModel):\n    username: str\n    email: str\n    password: str\n    role: str\nclass UserUpdate(BaseModel):\n    username: Optional[str] = None\n    email: Optional[str] = None\n    password: Optional[str] = None\n    role: Optional[str] = None",
+        "detail": "nea_backend.nea_backend.app.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdate",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.auth.schemas",
+        "description": "nea_backend.nea_backend.app.auth.schemas",
+        "peekOfCode": "class UserUpdate(BaseModel):\n    username: Optional[str] = None\n    email: Optional[str] = None\n    password: Optional[str] = None\n    role: Optional[str] = None\nclass UserResponse(BaseModel):\n    id: int\n    username: str\n    email: str\n    role: str",
+        "detail": "nea_backend.nea_backend.app.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.auth.schemas",
+        "description": "nea_backend.nea_backend.app.auth.schemas",
+        "peekOfCode": "class UserResponse(BaseModel):\n    id: int\n    username: str\n    email: str\n    role: str",
+        "detail": "nea_backend.nea_backend.app.auth.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "nea_backend.nea_backend.app.auth.security",
+        "description": "nea_backend.nea_backend.app.auth.security",
+        "peekOfCode": "def verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password: str) -> str:\n    return pwd_context.hash(password)\ndef create_access_token(data: dict, expires_delta: Union[timedelta, None] = None) -> str:\n    to_encode = data.copy()\n    if expires_delta:\n        expire = datetime.now(timezone.utc) + expires_delta\n    else:\n        expire = datetime.now(timezone.utc) + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)",
+        "detail": "nea_backend.nea_backend.app.auth.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_password_hash",
+        "kind": 2,
+        "importPath": "nea_backend.nea_backend.app.auth.security",
+        "description": "nea_backend.nea_backend.app.auth.security",
+        "peekOfCode": "def get_password_hash(password: str) -> str:\n    return pwd_context.hash(password)\ndef create_access_token(data: dict, expires_delta: Union[timedelta, None] = None) -> str:\n    to_encode = data.copy()\n    if expires_delta:\n        expire = datetime.now(timezone.utc) + expires_delta\n    else:\n        expire = datetime.now(timezone.utc) + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)",
+        "detail": "nea_backend.nea_backend.app.auth.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "nea_backend.nea_backend.app.auth.security",
+        "description": "nea_backend.nea_backend.app.auth.security",
+        "peekOfCode": "def create_access_token(data: dict, expires_delta: Union[timedelta, None] = None) -> str:\n    to_encode = data.copy()\n    if expires_delta:\n        expire = datetime.now(timezone.utc) + expires_delta\n    else:\n        expire = datetime.now(timezone.utc) + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt\ndef verify_token(token: str) -> TokenData:",
+        "detail": "nea_backend.nea_backend.app.auth.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_token",
+        "kind": 2,
+        "importPath": "nea_backend.nea_backend.app.auth.security",
+        "description": "nea_backend.nea_backend.app.auth.security",
+        "peekOfCode": "def verify_token(token: str) -> TokenData:\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        username: str = str(payload.get(\"sub\"))  # Add type hint to ensure username is of type str\n        role: str = str(payload.get(\"role\"))  # Add type hint to ensure role is of type str\n        if username is None or role is None:\n            raise credentials_exception\n        return TokenData(username=username, role=role)\n    except JWTError:\n        raise credentials_exception",
+        "detail": "nea_backend.nea_backend.app.auth.security",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.auth.security",
+        "description": "nea_backend.nea_backend.app.auth.security",
+        "peekOfCode": "SECRET_KEY = \"your_secret_key\"  \nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\n# Password hashing context\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\n# OAuth2 password bearer\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"token\")\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password: str) -> str:",
+        "detail": "nea_backend.nea_backend.app.auth.security",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.auth.security",
+        "description": "nea_backend.nea_backend.app.auth.security",
+        "peekOfCode": "ALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\n# Password hashing context\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\n# OAuth2 password bearer\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"token\")\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password: str) -> str:\n    return pwd_context.hash(password)",
+        "detail": "nea_backend.nea_backend.app.auth.security",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.auth.security",
+        "description": "nea_backend.nea_backend.app.auth.security",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = 30\n# Password hashing context\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\n# OAuth2 password bearer\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"token\")\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password: str) -> str:\n    return pwd_context.hash(password)\ndef create_access_token(data: dict, expires_delta: Union[timedelta, None] = None) -> str:",
+        "detail": "nea_backend.nea_backend.app.auth.security",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.auth.security",
+        "description": "nea_backend.nea_backend.app.auth.security",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\n# OAuth2 password bearer\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"token\")\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password: str) -> str:\n    return pwd_context.hash(password)\ndef create_access_token(data: dict, expires_delta: Union[timedelta, None] = None) -> str:\n    to_encode = data.copy()\n    if expires_delta:",
+        "detail": "nea_backend.nea_backend.app.auth.security",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.auth.security",
+        "description": "nea_backend.nea_backend.app.auth.security",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"token\")\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password: str) -> str:\n    return pwd_context.hash(password)\ndef create_access_token(data: dict, expires_delta: Union[timedelta, None] = None) -> str:\n    to_encode = data.copy()\n    if expires_delta:\n        expire = datetime.now(timezone.utc) + expires_delta\n    else:",
+        "detail": "nea_backend.nea_backend.app.auth.security",
+        "documentation": {}
+    },
+    {
+        "label": "credentials_exception",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.auth.security",
+        "description": "nea_backend.nea_backend.app.auth.security",
+        "peekOfCode": "credentials_exception = HTTPException(\n    status_code=status.HTTP_401_UNAUTHORIZED,\n    detail=\"Could not validate credentials\",\n    headers={\"WWW-Authenticate\": \"Bearer\"},\n)",
+        "detail": "nea_backend.nea_backend.app.auth.security",
         "documentation": {}
     },
     {
@@ -1236,7 +1896,7 @@
         "kind": 2,
         "importPath": "nea_backend.nea_backend.app.application",
         "description": "nea_backend.nea_backend.app.application",
-        "peekOfCode": "def create_db_tables():\n    \"\"\"Create all tables in database.\"\"\"\n    Base.metadata.create_all(engine)\ndef create_application() -> FastAPI:\n    \"\"\"Create a FastAPI instance.\n    Returns:\n        object of FastAPI: the fastapi application instance.\n    \"\"\"\n    settings = get_settings()\n    application = FastAPI(title=settings.PROJECT_NAME,",
+        "peekOfCode": "def create_db_tables():\n    \"\"\"Create all tables in database.\"\"\"\n    Base.metadata.create_all(bind=engine)\ndef create_application() -> FastAPI:\n    \"\"\"Create a FastAPI instance.\n    Returns:\n        object of FastAPI: the fastapi application instance.\n    \"\"\"\n    settings = get_settings()\n    application = FastAPI(title=settings.PROJECT_NAME,",
         "detail": "nea_backend.nea_backend.app.application",
         "documentation": {}
     },
@@ -1246,6 +1906,15 @@
         "importPath": "nea_backend.nea_backend.app.application",
         "description": "nea_backend.nea_backend.app.application",
         "peekOfCode": "def create_application() -> FastAPI:\n    \"\"\"Create a FastAPI instance.\n    Returns:\n        object of FastAPI: the fastapi application instance.\n    \"\"\"\n    settings = get_settings()\n    application = FastAPI(title=settings.PROJECT_NAME,\n                          debug=settings.DEBUG,\n                          version=__version__,\n                          openapi_url=f\"{settings.API_STR}/openapi.json\")",
+        "detail": "nea_backend.nea_backend.app.application",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.application",
+        "description": "nea_backend.nea_backend.app.application",
+        "peekOfCode": "Base = declarative_base()\ndef create_db_tables():\n    \"\"\"Create all tables in database.\"\"\"\n    Base.metadata.create_all(bind=engine)\ndef create_application() -> FastAPI:\n    \"\"\"Create a FastAPI instance.\n    Returns:\n        object of FastAPI: the fastapi application instance.\n    \"\"\"\n    settings = get_settings()",
         "detail": "nea_backend.nea_backend.app.application",
         "documentation": {}
     },
@@ -1283,6 +1952,24 @@
         "description": "nea_backend.tests.test_api.test_base",
         "peekOfCode": "def test_get_version(test_client):\n    response = test_client.get(\"/api/v1/version\")\n    assert response.status_code == 200\n    assert response.json() == {\"version\": __version__}",
         "detail": "nea_backend.tests.test_api.test_base",
+        "documentation": {}
+    },
+    {
+        "label": "test_login",
+        "kind": 2,
+        "importPath": "nea_backend.tests.test_auth.test_auth",
+        "description": "nea_backend.tests.test_auth.test_auth",
+        "peekOfCode": "def test_login():\n    response = client.post(\n        \"/auth/token\", data={\"username\": \"testuser\", \"password\": \"password\"}\n    )\n    assert response.status_code == 200\n    assert \"access_token\" in response.json()",
+        "detail": "nea_backend.tests.test_auth.test_auth",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "nea_backend.tests.test_auth.test_auth",
+        "description": "nea_backend.tests.test_auth.test_auth",
+        "peekOfCode": "client = TestClient(app)\ndef test_login():\n    response = client.post(\n        \"/auth/token\", data={\"username\": \"testuser\", \"password\": \"password\"}\n    )\n    assert response.status_code == 200\n    assert \"access_token\" in response.json()",
+        "detail": "nea_backend.tests.test_auth.test_auth",
         "documentation": {}
     },
     {
@@ -1400,6 +2087,24 @@
         "description": "nea_backend.tests.test_middlewares.test_logging",
         "peekOfCode": "class TestLogTime(TestCase):\n    def setUp(self):\n        app = create_application()\n        self.test_client = TestClient(app)\n    @mock.patch(\"nea_backend.app.middlewares.logging.time\")\n    def test_log_time(self, mocked_time):\n        mocked_time.time.side_effect = [1, 2, 1, 2, 1, 2]\n        with self.assertLogs('nea_backend', level='INFO') as cm:\n            version_response = self.test_client.get(\"/api/v1/version\")\n            error_response = self.test_client.get(\"/api/v1/not_exist_page\")",
         "detail": "nea_backend.tests.test_middlewares.test_logging",
+        "documentation": {}
+    },
+    {
+        "label": "test_websocket",
+        "kind": 2,
+        "importPath": "nea_backend.tests.test_ocpp.test_ocpp",
+        "description": "nea_backend.tests.test_ocpp.test_ocpp",
+        "peekOfCode": "def test_websocket():\n    with client.websocket_connect(\"/ws/ocpp\") as websocket:\n        websocket.send_text('{\"action\": \"BootNotification\", \"chargePointModel\": \"ModelX\", \"chargePointVendor\": \"VendorY\"}')\n        response = websocket.receive_text()\n        assert json.loads(response) == {\"status\": \"Accepted\", \"currentTime\": \"2024-08-13T12:00:00Z\"}",
+        "detail": "nea_backend.tests.test_ocpp.test_ocpp",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "nea_backend.tests.test_ocpp.test_ocpp",
+        "description": "nea_backend.tests.test_ocpp.test_ocpp",
+        "peekOfCode": "client = TestClient(app)\ndef test_websocket():\n    with client.websocket_connect(\"/ws/ocpp\") as websocket:\n        websocket.send_text('{\"action\": \"BootNotification\", \"chargePointModel\": \"ModelX\", \"chargePointVendor\": \"VendorY\"}')\n        response = websocket.receive_text()\n        assert json.loads(response) == {\"status\": \"Accepted\", \"currentTime\": \"2024-08-13T12:00:00Z\"}",
+        "detail": "nea_backend.tests.test_ocpp.test_ocpp",
         "documentation": {}
     },
     {

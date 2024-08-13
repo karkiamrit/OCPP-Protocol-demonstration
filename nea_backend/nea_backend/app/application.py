@@ -6,15 +6,18 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.middleware.base import BaseHTTPMiddleware
 from .api import api_router
 from .configs import get_settings
-from .db import Base, engine
+from .db import engine
 from .events import startup_handler, shutdown_handler
 from .middlewares import log_time
 from .version import __version__
-
+from app.api import ocpp, auth
+from typing import Dict, Any
+from sqlalchemy.ext.declarative import declarative_base
+Base = declarative_base()
 
 def create_db_tables():
     """Create all tables in database."""
-    Base.metadata.create_all(engine)
+    Base.metadata.create_all(bind=engine)
 
 
 def create_application() -> FastAPI:
@@ -43,13 +46,15 @@ def create_application() -> FastAPI:
 
     # add defined routers
     application.include_router(api_router, prefix=settings.API_STR)
+    application.include_router(auth.router, prefix="/auth", tags=["auth"])
+    application.include_router(ocpp.router, prefix="/ocpp", tags=["ocpp"])
 
     # event handler
     application.add_event_handler("startup", startup_handler)
     application.add_event_handler("shutdown", shutdown_handler)
 
     # load logging config
-    logging.config.dictConfig(settings.LOGGING_CONFIG)
+    logging.config.dictConfig(dict(settings.LOGGING_CONFIG))
 
     # add defined middleware functions
     application.add_middleware(BaseHTTPMiddleware, dispatch=log_time)
