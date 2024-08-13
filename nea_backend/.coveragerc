@@ -1,0 +1,2 @@
+[run]
+omit = ./nea_backend/main.py,*/__init__.py
