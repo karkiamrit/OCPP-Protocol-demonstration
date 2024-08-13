@@ -1,4 +1,16 @@
-FROM tiangolo/uvicorn-gunicorn:python3.11
+# FROM tiangolo/uvicorn-gunicorn:python3.11
+
+# ARG DB_CONNECTION
+# ARG MODE
+
+# ENV SQLALCHEMY_DATABASE_URI=${DB_CONNECTION}
+# ENV MODE=${MODE}
+
+# COPY ./requirements/base.txt .
+# RUN pip install -r base.txt
+
+# WORKDIR /app
+FROM tiangolo/uvicorn-gunicorn-fastapi:python3.11
 
 ARG DB_CONNECTION
 ARG MODE
@@ -9,4 +21,10 @@ ENV MODE=${MODE}
 COPY ./requirements/base.txt .
 RUN pip install -r base.txt
 
+COPY ./scripts /app
+COPY ./nea_backend /app
+
 WORKDIR /app
+
+# Use uvicorn with --reload for development mode
+CMD ["uvicorn", "nea_backend.main:app", "--host", "0.0.0.0", "--port", "8080", "--reload"]

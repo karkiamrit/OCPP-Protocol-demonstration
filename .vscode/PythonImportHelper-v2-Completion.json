@@ -1,0 +1,1567 @@
+[
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocket",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocketDisconnect",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "MyOCPPProtocol",
+        "importPath": "app.services.ocpp_service",
+        "description": "app.services.ocpp_service",
+        "isExtraImport": true,
+        "detail": "app.services.ocpp_service",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "ast",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ast",
+        "description": "ast",
+        "detail": "ast",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "secrets",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "secrets",
+        "description": "secrets",
+        "detail": "secrets",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "AnyHttpUrl",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "PostgresDsn",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "as_declarative",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "declared_attr",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "inspect",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "contextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "on",
+        "importPath": "ocpp.routing",
+        "description": "ocpp.routing",
+        "isExtraImport": true,
+        "detail": "ocpp.routing",
+        "documentation": {}
+    },
+    {
+        "label": "OCPPProtocol",
+        "importPath": "ocpp",
+        "description": "ocpp",
+        "isExtraImport": true,
+        "detail": "ocpp",
+        "documentation": {}
+    },
+    {
+        "label": "BootNotificationRequest",
+        "importPath": "app.schemas.ocpp_models",
+        "description": "app.schemas.ocpp_models",
+        "isExtraImport": true,
+        "detail": "app.schemas.ocpp_models",
+        "documentation": {}
+    },
+    {
+        "label": "BootNotificationResponse",
+        "importPath": "app.schemas.ocpp_models",
+        "description": "app.schemas.ocpp_models",
+        "isExtraImport": true,
+        "detail": "app.schemas.ocpp_models",
+        "documentation": {}
+    },
+    {
+        "label": "AuthorizeRequest",
+        "importPath": "nea_backend.nea_backend.app.schemas.ocpp_models",
+        "description": "nea_backend.nea_backend.app.schemas.ocpp_models",
+        "isExtraImport": true,
+        "detail": "nea_backend.nea_backend.app.schemas.ocpp_models",
+        "documentation": {}
+    },
+    {
+        "label": "AuthorizeResponse",
+        "importPath": "nea_backend.nea_backend.app.schemas.ocpp_models",
+        "description": "nea_backend.nea_backend.app.schemas.ocpp_models",
+        "isExtraImport": true,
+        "detail": "nea_backend.nea_backend.app.schemas.ocpp_models",
+        "documentation": {}
+    },
+    {
+        "label": "click",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "click",
+        "description": "click",
+        "detail": "click",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPStatus",
+        "importPath": "http",
+        "description": "http",
+        "isExtraImport": true,
+        "detail": "http",
+        "documentation": {}
+    },
+    {
+        "label": "logging.config",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "starlette.middleware.cors",
+        "description": "starlette.middleware.cors",
+        "isExtraImport": true,
+        "detail": "starlette.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "starlette.middleware.cors",
+        "description": "starlette.middleware.cors",
+        "isExtraImport": true,
+        "detail": "starlette.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "BaseHTTPMiddleware",
+        "importPath": "starlette.middleware.base",
+        "description": "starlette.middleware.base",
+        "isExtraImport": true,
+        "detail": "starlette.middleware.base",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "create_application",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "app.configs",
+        "description": "app.configs",
+        "isExtraImport": true,
+        "detail": "app.configs",
+        "documentation": {}
+    },
+    {
+        "label": "__version__",
+        "importPath": "nea_backend.app.version",
+        "description": "nea_backend.app.version",
+        "isExtraImport": true,
+        "detail": "nea_backend.app.version",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "pydantic.error_wrappers",
+        "description": "pydantic.error_wrappers",
+        "isExtraImport": true,
+        "detail": "pydantic.error_wrappers",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "nea_backend.app.configs.base",
+        "description": "nea_backend.app.configs.base",
+        "isExtraImport": true,
+        "detail": "nea_backend.app.configs.base",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "importPath": "nea_backend.app.configs",
+        "description": "nea_backend.app.configs",
+        "isExtraImport": true,
+        "detail": "nea_backend.app.configs",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "nea_backend.app.configs",
+        "description": "nea_backend.app.configs",
+        "isExtraImport": true,
+        "detail": "nea_backend.app.configs",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "nea_backend.app.db",
+        "description": "nea_backend.app.db",
+        "isExtraImport": true,
+        "detail": "nea_backend.app.db",
+        "documentation": {}
+    },
+    {
+        "label": "unittest.mock",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm.session",
+        "description": "sqlalchemy.orm.session",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm.session",
+        "documentation": {}
+    },
+    {
+        "label": "session_scope",
+        "importPath": "nea_backend.app.db.session",
+        "description": "nea_backend.app.db.session",
+        "isExtraImport": true,
+        "detail": "nea_backend.app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "nea_backend.app.db.session",
+        "description": "nea_backend.app.db.session",
+        "isExtraImport": true,
+        "detail": "nea_backend.app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "nea_backend.app.db.session",
+        "description": "nea_backend.app.db.session",
+        "isExtraImport": true,
+        "detail": "nea_backend.app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "create_application",
+        "importPath": "nea_backend.app.application",
+        "description": "nea_backend.app.application",
+        "isExtraImport": true,
+        "detail": "nea_backend.app.application",
+        "documentation": {}
+    },
+    {
+        "label": "create_application",
+        "importPath": "nea_backend.app.application",
+        "description": "nea_backend.app.application",
+        "isExtraImport": true,
+        "detail": "nea_backend.app.application",
+        "documentation": {}
+    },
+    {
+        "label": "create_application",
+        "importPath": "nea_backend.app.application",
+        "description": "nea_backend.app.application",
+        "isExtraImport": true,
+        "detail": "nea_backend.app.application",
+        "documentation": {}
+    },
+    {
+        "label": "create_application",
+        "importPath": "nea_backend.app.application",
+        "description": "nea_backend.app.application",
+        "isExtraImport": true,
+        "detail": "nea_backend.app.application",
+        "documentation": {}
+    },
+    {
+        "label": "VersionResponse",
+        "importPath": "nea_backend.app.schemas.base",
+        "description": "nea_backend.app.schemas.base",
+        "isExtraImport": true,
+        "detail": "nea_backend.app.schemas.base",
+        "documentation": {}
+    },
+    {
+        "label": "ColorFormatter",
+        "importPath": "nea_backend.app.utils.logging",
+        "description": "nea_backend.app.utils.logging",
+        "isExtraImport": true,
+        "detail": "nea_backend.app.utils.logging",
+        "documentation": {}
+    },
+    {
+        "label": "request_msg_format",
+        "importPath": "nea_backend.app.utils.logging",
+        "description": "nea_backend.app.utils.logging",
+        "isExtraImport": true,
+        "detail": "nea_backend.app.utils.logging",
+        "documentation": {}
+    },
+    {
+        "label": "status_code_colors",
+        "importPath": "nea_backend.app.utils.logging",
+        "description": "nea_backend.app.utils.logging",
+        "isExtraImport": true,
+        "detail": "nea_backend.app.utils.logging",
+        "documentation": {}
+    },
+    {
+        "label": "get_request_msg_args",
+        "importPath": "nea_backend.app.utils.logging",
+        "description": "nea_backend.app.utils.logging",
+        "isExtraImport": true,
+        "detail": "nea_backend.app.utils.logging",
+        "documentation": {}
+    },
+    {
+        "label": "StandardFormatter",
+        "importPath": "nea_backend.app.utils.logging",
+        "description": "nea_backend.app.utils.logging",
+        "isExtraImport": true,
+        "detail": "nea_backend.app.utils.logging",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "nea_backend.app.db.base",
+        "description": "nea_backend.app.db.base",
+        "isExtraImport": true,
+        "detail": "nea_backend.app.db.base",
+        "documentation": {}
+    },
+    {
+        "label": "TextFile",
+        "importPath": "distutils.text_file",
+        "description": "distutils.text_file",
+        "isExtraImport": true,
+        "detail": "distutils.text_file",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "import_module",
+        "importPath": "importlib",
+        "description": "importlib",
+        "isExtraImport": true,
+        "detail": "importlib",
+        "documentation": {}
+    },
+    {
+        "label": "project",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "project = 'Nea Backend'\nauthor = 'Amrit Jung Karki'\ncopyright = f'{datetime.datetime.now().year}, {author}'\n# The short X.Y version\nversion = \"0.1.0\"\n# The full version, including alpha/beta/rc tags\nrelease = version\n# -- General configuration ---------------------------------------------------\n# If your documentation needs a minimal Sphinx version, state it here.\n#",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "author",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "author = 'Amrit Jung Karki'\ncopyright = f'{datetime.datetime.now().year}, {author}'\n# The short X.Y version\nversion = \"0.1.0\"\n# The full version, including alpha/beta/rc tags\nrelease = version\n# -- General configuration ---------------------------------------------------\n# If your documentation needs a minimal Sphinx version, state it here.\n#\n# needs_sphinx = '1.0'",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "copyright",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "copyright = f'{datetime.datetime.now().year}, {author}'\n# The short X.Y version\nversion = \"0.1.0\"\n# The full version, including alpha/beta/rc tags\nrelease = version\n# -- General configuration ---------------------------------------------------\n# If your documentation needs a minimal Sphinx version, state it here.\n#\n# needs_sphinx = '1.0'\n# Add any Sphinx extension module names here, as strings. They can be",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "version",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "version = \"0.1.0\"\n# The full version, including alpha/beta/rc tags\nrelease = version\n# -- General configuration ---------------------------------------------------\n# If your documentation needs a minimal Sphinx version, state it here.\n#\n# needs_sphinx = '1.0'\n# Add any Sphinx extension module names here, as strings. They can be\n# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom\n# ones.",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "release",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "release = version\n# -- General configuration ---------------------------------------------------\n# If your documentation needs a minimal Sphinx version, state it here.\n#\n# needs_sphinx = '1.0'\n# Add any Sphinx extension module names here, as strings. They can be\n# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom\n# ones.\nextensions = [\n    'sphinx.ext.autodoc',",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "extensions",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "extensions = [\n    'sphinx.ext.autodoc',\n    'sphinx.ext.doctest',\n    'sphinx.ext.intersphinx',\n    'sphinx.ext.todo',\n    'sphinx.ext.coverage',\n    'sphinx.ext.imgmath',\n    'sphinx.ext.viewcode',\n    'sphinx.ext.autosectionlabel',\n    'sphinx.ext.napoleon'",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "templates_path",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "templates_path = ['_templates']\n# The suffix(es) of source filenames.\n# You can specify multiple suffix as a list of string:\n#\nsource_suffix = {\n    '.rst': 'restructuredtext',\n}\n# The master toctree document.\nmaster_doc = 'index'\n# The language for content autogenerated by Sphinx. Refer to documentation",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "source_suffix",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "source_suffix = {\n    '.rst': 'restructuredtext',\n}\n# The master toctree document.\nmaster_doc = 'index'\n# The language for content autogenerated by Sphinx. Refer to documentation\n# for a list of supported languages.\n#\n# This is also used if you do content translation via gettext catalogs.\n# Usually you set \"language\" from the command line for these cases.",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "master_doc",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "master_doc = 'index'\n# The language for content autogenerated by Sphinx. Refer to documentation\n# for a list of supported languages.\n#\n# This is also used if you do content translation via gettext catalogs.\n# Usually you set \"language\" from the command line for these cases.\nlanguage = \"en\"\n# List of patterns, relative to source directory, that match files and\n# directories to ignore when looking for source files.\n# This pattern also affects html_static_path and html_extra_path.",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "language",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "language = \"en\"\n# List of patterns, relative to source directory, that match files and\n# directories to ignore when looking for source files.\n# This pattern also affects html_static_path and html_extra_path.\nexclude_patterns = []\n# The name of the Pygments (syntax highlighting) style to use.\npygments_style = 'sphinx'\n# -- Options for todo extension ----------------------------------------------\n# If true, `todo` and `todoList` produce output, else they produce nothing.\ntodo_include_todos = True",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "exclude_patterns",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "exclude_patterns = []\n# The name of the Pygments (syntax highlighting) style to use.\npygments_style = 'sphinx'\n# -- Options for todo extension ----------------------------------------------\n# If true, `todo` and `todoList` produce output, else they produce nothing.\ntodo_include_todos = True\n# -- Options for HTML output ----------------------------------------------\n# The theme to use for HTML and HTML Help pages.  See the documentation for\n# a list of builtin themes.\n#",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "pygments_style",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "pygments_style = 'sphinx'\n# -- Options for todo extension ----------------------------------------------\n# If true, `todo` and `todoList` produce output, else they produce nothing.\ntodo_include_todos = True\n# -- Options for HTML output ----------------------------------------------\n# The theme to use for HTML and HTML Help pages.  See the documentation for\n# a list of builtin themes.\n#\nhtml_theme = 'sphinx_rtd_theme'\n# Theme options are theme-specific and customize the look and feel of a theme",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "todo_include_todos",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "todo_include_todos = True\n# -- Options for HTML output ----------------------------------------------\n# The theme to use for HTML and HTML Help pages.  See the documentation for\n# a list of builtin themes.\n#\nhtml_theme = 'sphinx_rtd_theme'\n# Theme options are theme-specific and customize the look and feel of a theme\n# further.  For a list of options available for each theme, see the\n# documentation.\n#",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "html_theme",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "html_theme = 'sphinx_rtd_theme'\n# Theme options are theme-specific and customize the look and feel of a theme\n# further.  For a list of options available for each theme, see the\n# documentation.\n#\nhtml_theme_options = {}\n# Add any paths that contain custom static files (such as style sheets) here,\n# relative to this directory. They are copied after the builtin static files,\n# so a file named \"default.css\" will overwrite the builtin \"default.css\".\nhtml_static_path = []",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "html_theme_options",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "html_theme_options = {}\n# Add any paths that contain custom static files (such as style sheets) here,\n# relative to this directory. They are copied after the builtin static files,\n# so a file named \"default.css\" will overwrite the builtin \"default.css\".\nhtml_static_path = []\n# Custom sidebar templates, must be a dictionary that maps document names\n# to template names.\n#\n# The default sidebars (for documents that don't match any pattern) are\n# defined by theme itself.  Builtin themes are using these templates by",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "html_static_path",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "html_static_path = []\n# Custom sidebar templates, must be a dictionary that maps document names\n# to template names.\n#\n# The default sidebars (for documents that don't match any pattern) are\n# defined by theme itself.  Builtin themes are using these templates by\n# default: ``['localtoc.html', 'relations.html', 'sourcelink.html',\n# 'searchbox.html']``.\n#\n# html_sidebars = {}",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "htmlhelp_basename",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "htmlhelp_basename = 'nea_backend_docs'\n# -- Options for LaTeX output ------------------------------------------------\nlatex_elements = {\n    # The paper size ('letterpaper' or 'a4paper').\n    #\n    # 'papersize': 'letterpaper',\n    # The font size ('10pt', '11pt' or '12pt').\n    #\n    # 'pointsize': '10pt',\n    # Additional stuff for the LaTeX preamble.",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "latex_elements",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "latex_elements = {\n    # The paper size ('letterpaper' or 'a4paper').\n    #\n    # 'papersize': 'letterpaper',\n    # The font size ('10pt', '11pt' or '12pt').\n    #\n    # 'pointsize': '10pt',\n    # Additional stuff for the LaTeX preamble.\n    #\n    # 'preamble': '',",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "latex_documents",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "latex_documents = [\n    (master_doc, project + '.tex', project + ' Documentation',\n     author, 'manual'),\n]\n# -- Options for manual page output ------------------------------------------\n# One entry per manual page. List of tuples\n# (source start file, name, description, authors, manual section).\nman_pages = [\n    (master_doc, 'nea_backend', project + ' Documentation', [author], 1)\n]",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "man_pages",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "man_pages = [\n    (master_doc, 'nea_backend', project + ' Documentation', [author], 1)\n]\n# -- Options for Texinfo output ----------------------------------------------\n# Grouping the document tree into Texinfo files. List of tuples\n# (source start file, target name, title, author,\n#  dir menu entry, description, category)\ntexinfo_documents = [\n    (master_doc, project, project + ' Documentation',\n     author, project, 'FastAPI Charging Station CMS is a web-based Content Management System designed for managing electric vehicle (EV) charging stations. This project leverages FastAPI and PostgreSQL to provide a robust and scalable solution for handling charging station data, real-time communication with charging units using the OCPP protocol, and user management.',",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "texinfo_documents",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "texinfo_documents = [\n    (master_doc, project, project + ' Documentation',\n     author, project, 'FastAPI Charging Station CMS is a web-based Content Management System designed for managing electric vehicle (EV) charging stations. This project leverages FastAPI and PostgreSQL to provide a robust and scalable solution for handling charging station data, real-time communication with charging units using the OCPP protocol, and user management.',\n     'Miscellaneous'),\n]\n# -- Options for Epub output -------------------------------------------------\n# Bibliographic Dublin Core info.\nepub_title = project\n# The unique identifier of the text. This can be a ISBN number\n# or the project homepage.",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "epub_title",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "epub_title = project\n# The unique identifier of the text. This can be a ISBN number\n# or the project homepage.\n#\n# epub_identifier = ''\n# A unique identification for the text.\n#\n# epub_uid = ''\n# A list of files that should not be packed into the epub file.\nepub_exclude_files = ['search.html']",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "epub_exclude_files",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "epub_exclude_files = ['search.html']\n# -- Extension configuration -------------------------------------------------\n# -- Options for intersphinx extension ---------------------------------------\n# Example configuration for intersphinx: refer to the Python standard library.\nintersphinx_mapping = {'https://docs.python.org/': None}\nadd_module_names = False",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "intersphinx_mapping",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "intersphinx_mapping = {'https://docs.python.org/': None}\nadd_module_names = False",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "add_module_names",
+        "kind": 5,
+        "importPath": "nea_backend.docs.source.conf",
+        "description": "nea_backend.docs.source.conf",
+        "peekOfCode": "add_module_names = False",
+        "detail": "nea_backend.docs.source.conf",
+        "documentation": {}
+    },
+    {
+        "label": "base_router",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.api.base",
+        "description": "nea_backend.nea_backend.app.api.base",
+        "peekOfCode": "base_router = APIRouter()\n@base_router.get(\"/version\", response_model=VersionResponse)\nasync def version() -> Any:\n    \"\"\"Provide version information about the web service.\n    \\f\n    Returns:\n        VersionResponse: A json response containing the version number.\n    \"\"\"\n    return VersionResponse(version=__version__)",
+        "detail": "nea_backend.nea_backend.app.api.base",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.api.ocpp",
+        "description": "nea_backend.nea_backend.app.api.ocpp",
+        "peekOfCode": "router = APIRouter()\n@router.websocket(\"/ws/ocpp\")\nasync def websocket_endpoint(websocket: WebSocket):\n    await websocket.accept()\n    ocpp_protocol = MyOCPPProtocol(websocket)\n    try:\n        while True:\n            data = await websocket.receive_text()\n            message = json.loads(data)\n            await ocpp_protocol.handle_message(message)",
+        "detail": "nea_backend.nea_backend.app.api.ocpp",
+        "documentation": {}
+    },
+    {
+        "label": "LoggingConfig",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.configs.base",
+        "description": "nea_backend.nea_backend.app.configs.base",
+        "peekOfCode": "class LoggingConfig(BaseModel):\n    version: int\n    disable_existing_loggers: bool = False\n    formatters: Dict\n    handlers: Dict\n    loggers: Dict\nclass Settings(BaseSettings):\n    PROJECT_NAME: str = 'Nea Backend'\n    PROJECT_SLUG: str = 'nea_backend'\n    DEBUG: bool = True",
+        "detail": "nea_backend.nea_backend.app.configs.base",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.configs.base",
+        "description": "nea_backend.nea_backend.app.configs.base",
+        "peekOfCode": "class Settings(BaseSettings):\n    PROJECT_NAME: str = 'Nea Backend'\n    PROJECT_SLUG: str = 'nea_backend'\n    DEBUG: bool = True\n    API_STR: str = \"/api/v1\"\n    # ##################### Access Token Configuration #########################\n    # TODO: Please note that, the secret key will be different for each running\n    # instance or each time restart the service, if you prefer a stable one,\n    # please use an environment variable.\n    SECRET_KEY: str = secrets.token_urlsafe(32)",
+        "detail": "nea_backend.nea_backend.app.configs.base",
+        "documentation": {}
+    },
+    {
+        "label": "SettingsDev",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.configs.dev",
+        "description": "nea_backend.nea_backend.app.configs.dev",
+        "peekOfCode": "class SettingsDev(Settings):\n    DEBUG = True",
+        "detail": "nea_backend.nea_backend.app.configs.dev",
+        "documentation": {}
+    },
+    {
+        "label": "SettingsProd",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.configs.prod",
+        "description": "nea_backend.nea_backend.app.configs.prod",
+        "peekOfCode": "class SettingsProd(Settings):\n    DEBUG = False\n    LOGGING_CONFIG: LoggingConfig = {\n        \"version\": 1,\n        \"disable_existing_loggers\": False,\n        \"formatters\": {\n            'colorFormatter': {'()': ColorFormatter},\n            'standardFormatter': {'()': StandardFormatter},\n        },\n        \"handlers\": {",
+        "detail": "nea_backend.nea_backend.app.configs.prod",
+        "documentation": {}
+    },
+    {
+        "label": "SettingsTest",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.configs.test",
+        "description": "nea_backend.nea_backend.app.configs.test",
+        "peekOfCode": "class SettingsTest(Settings):\n    DEBUG = False\n    LOGGING_CONFIG: LoggingConfig = {\n        \"version\": 1,\n        \"disable_existing_loggers\": False,\n        \"formatters\": {\n            'colorFormatter': {'()': ColorFormatter},\n        },\n        \"handlers\": {\n            'consoleHandler': {",
+        "detail": "nea_backend.nea_backend.app.configs.test",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.db.base",
+        "description": "nea_backend.nea_backend.app.db.base",
+        "peekOfCode": "class Base:\n    \"\"\"Base table class\"\"\"\n    id: Any\n    __name__: str\n    @declared_attr\n    def __tablename__(cls) -> str:\n        \"\"\"Generate __tablename__ automatically\"\"\"\n        return cls.__name__.lower()\n    def _asdict(self):\n        \"\"\"Convert extract record to dict.\"\"\"",
+        "detail": "nea_backend.nea_backend.app.db.base",
+        "documentation": {}
+    },
+    {
+        "label": "session_scope",
+        "kind": 2,
+        "importPath": "nea_backend.nea_backend.app.db.session",
+        "description": "nea_backend.nea_backend.app.db.session",
+        "peekOfCode": "def session_scope():\n    \"\"\"Provide a transactional scope around a series of operations.\n    Yields:\n        sqlalchemy.orm.Session: A local SQLAlchemy session.\n    Examples:\n        >>> with session_scope() as session:\n        ...    session.add(Table1(url=\"https://www.example.com\"))\n        ...    session.commit()\n    \"\"\"\n    session = SessionLocal()",
+        "detail": "nea_backend.nea_backend.app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.db.session",
+        "description": "nea_backend.nea_backend.app.db.session",
+        "peekOfCode": "settings = get_settings()\nengine = create_engine(settings.SQLALCHEMY_DATABASE_URI, pool_pre_ping=True)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n@contextmanager\ndef session_scope():\n    \"\"\"Provide a transactional scope around a series of operations.\n    Yields:\n        sqlalchemy.orm.Session: A local SQLAlchemy session.\n    Examples:\n        >>> with session_scope() as session:",
+        "detail": "nea_backend.nea_backend.app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.db.session",
+        "description": "nea_backend.nea_backend.app.db.session",
+        "peekOfCode": "engine = create_engine(settings.SQLALCHEMY_DATABASE_URI, pool_pre_ping=True)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n@contextmanager\ndef session_scope():\n    \"\"\"Provide a transactional scope around a series of operations.\n    Yields:\n        sqlalchemy.orm.Session: A local SQLAlchemy session.\n    Examples:\n        >>> with session_scope() as session:\n        ...    session.add(Table1(url=\"https://www.example.com\"))",
+        "detail": "nea_backend.nea_backend.app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.db.session",
+        "description": "nea_backend.nea_backend.app.db.session",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n@contextmanager\ndef session_scope():\n    \"\"\"Provide a transactional scope around a series of operations.\n    Yields:\n        sqlalchemy.orm.Session: A local SQLAlchemy session.\n    Examples:\n        >>> with session_scope() as session:\n        ...    session.add(Table1(url=\"https://www.example.com\"))\n        ...    session.commit()",
+        "detail": "nea_backend.nea_backend.app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.events.base",
+        "description": "nea_backend.nea_backend.app.events.base",
+        "peekOfCode": "settings = get_settings()\nlogger = logging.getLogger(settings.PROJECT_SLUG)\nasync def startup_handler() -> None:\n    \"\"\"Dummy startup event, it will be executed before the app is ready, such\n    as loading ml model, creating superuser in DB etc.\"\"\"\n    logger.info(\"Starting up ...\")\nasync def shutdown_handler() -> None:\n    \"\"\"Dummy shutdown event, it will be executed before the app is shutting\n    down, such as removing temporary files, close DB connection etc.\"\"\"\n    logger.info(\"Shutting down ...\")",
+        "detail": "nea_backend.nea_backend.app.events.base",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.events.base",
+        "description": "nea_backend.nea_backend.app.events.base",
+        "peekOfCode": "logger = logging.getLogger(settings.PROJECT_SLUG)\nasync def startup_handler() -> None:\n    \"\"\"Dummy startup event, it will be executed before the app is ready, such\n    as loading ml model, creating superuser in DB etc.\"\"\"\n    logger.info(\"Starting up ...\")\nasync def shutdown_handler() -> None:\n    \"\"\"Dummy shutdown event, it will be executed before the app is shutting\n    down, such as removing temporary files, close DB connection etc.\"\"\"\n    logger.info(\"Shutting down ...\")",
+        "detail": "nea_backend.nea_backend.app.events.base",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.middlewares.logging",
+        "description": "nea_backend.nea_backend.app.middlewares.logging",
+        "peekOfCode": "settings = get_settings()\nlogger = logging.getLogger(settings.PROJECT_SLUG)\nasync def log_time(request: Request, call_next: Callable) -> Response:\n    \"\"\"Middleware function for logging the processing time of the request.\n    It's used as an example for showing people how to define middleware\n    functions and add them to the FastAPI instance.\n    Args:\n        request (Request): incoming request to API service.\n        call_next (Callable): the corresponding endpoint function\n    Returns:",
+        "detail": "nea_backend.nea_backend.app.middlewares.logging",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.middlewares.logging",
+        "description": "nea_backend.nea_backend.app.middlewares.logging",
+        "peekOfCode": "logger = logging.getLogger(settings.PROJECT_SLUG)\nasync def log_time(request: Request, call_next: Callable) -> Response:\n    \"\"\"Middleware function for logging the processing time of the request.\n    It's used as an example for showing people how to define middleware\n    functions and add them to the FastAPI instance.\n    Args:\n        request (Request): incoming request to API service.\n        call_next (Callable): the corresponding endpoint function\n    Returns:\n        Response: a json response returned by the endpoint function.",
+        "detail": "nea_backend.nea_backend.app.middlewares.logging",
+        "documentation": {}
+    },
+    {
+        "label": "VersionResponse",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.schemas.base",
+        "description": "nea_backend.nea_backend.app.schemas.base",
+        "peekOfCode": "class VersionResponse(BaseModel):\n    \"\"\"Response for version endpoint.\"\"\"\n    version: str = Field(..., example=\"1.0.0\")",
+        "detail": "nea_backend.nea_backend.app.schemas.base",
+        "documentation": {}
+    },
+    {
+        "label": "BootNotificationRequest",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.schemas.ocpp_models",
+        "description": "nea_backend.nea_backend.app.schemas.ocpp_models",
+        "peekOfCode": "class BootNotificationRequest(BaseModel):\n    chargePointModel: str\n    chargePointVendor: str\nclass BootNotificationResponse(BaseModel):\n    status: str\n    currentTime: str\nclass AuthorizeRequest(BaseModel):\n    idTag: str\nclass AuthorizeResponse(BaseModel):\n    idTagInfo: dict  # You may define a more detailed structure based on OCPP specs",
+        "detail": "nea_backend.nea_backend.app.schemas.ocpp_models",
+        "documentation": {}
+    },
+    {
+        "label": "BootNotificationResponse",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.schemas.ocpp_models",
+        "description": "nea_backend.nea_backend.app.schemas.ocpp_models",
+        "peekOfCode": "class BootNotificationResponse(BaseModel):\n    status: str\n    currentTime: str\nclass AuthorizeRequest(BaseModel):\n    idTag: str\nclass AuthorizeResponse(BaseModel):\n    idTagInfo: dict  # You may define a more detailed structure based on OCPP specs\n# Add other OCPP message models as needed",
+        "detail": "nea_backend.nea_backend.app.schemas.ocpp_models",
+        "documentation": {}
+    },
+    {
+        "label": "AuthorizeRequest",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.schemas.ocpp_models",
+        "description": "nea_backend.nea_backend.app.schemas.ocpp_models",
+        "peekOfCode": "class AuthorizeRequest(BaseModel):\n    idTag: str\nclass AuthorizeResponse(BaseModel):\n    idTagInfo: dict  # You may define a more detailed structure based on OCPP specs\n# Add other OCPP message models as needed",
+        "detail": "nea_backend.nea_backend.app.schemas.ocpp_models",
+        "documentation": {}
+    },
+    {
+        "label": "AuthorizeResponse",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.schemas.ocpp_models",
+        "description": "nea_backend.nea_backend.app.schemas.ocpp_models",
+        "peekOfCode": "class AuthorizeResponse(BaseModel):\n    idTagInfo: dict  # You may define a more detailed structure based on OCPP specs\n# Add other OCPP message models as needed",
+        "detail": "nea_backend.nea_backend.app.schemas.ocpp_models",
+        "documentation": {}
+    },
+    {
+        "label": "MyOCPPProtocol",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.services.ocpp_service",
+        "description": "nea_backend.nea_backend.app.services.ocpp_service",
+        "peekOfCode": "class MyOCPPProtocol(OCPPProtocol):\n    async def handle_message(self, message: dict):\n        if 'action' in message:\n            action = message['action']\n            handler = getattr(self, f'handle_{action.lower()}', None)\n            if handler:\n                response = await handler(message)\n                await self.websocket.send_text(json.dumps(response))\n            else:\n                await self.websocket.send_text(json.dumps({\"status\": \"Unknown Action\"}))",
+        "detail": "nea_backend.nea_backend.app.services.ocpp_service",
+        "documentation": {}
+    },
+    {
+        "label": "StandardFormatter",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.utils.logging",
+        "description": "nea_backend.nea_backend.app.utils.logging",
+        "peekOfCode": "class StandardFormatter(logging.Formatter):\n    \"\"\"Logging Formatter to count warning / errors\"\"\"\n    msg_format = \"%(asctime)-22.19s %(name)-21s [%(levelname)s]:    \" \\\n                 \"%(message)s    (%(filename)s:%(lineno)d)\"\n    def build_msg_format(self, *args, **kwargs) -> str:\n        \"\"\"Wrapper function for building message customized format.\n        Returns:\n            str: log message format.\n        \"\"\"\n        return self.msg_format",
+        "detail": "nea_backend.nea_backend.app.utils.logging",
+        "documentation": {}
+    },
+    {
+        "label": "ColorFormatter",
+        "kind": 6,
+        "importPath": "nea_backend.nea_backend.app.utils.logging",
+        "description": "nea_backend.nea_backend.app.utils.logging",
+        "peekOfCode": "class ColorFormatter(StandardFormatter):\n    \"\"\"Logging Formatter to add colors and count warning / errors\"\"\"\n    msg_format = \"%(asctime)-22.19s {bold_name} {color_levelname:29}\" \\\n                 \"%(message)s    (%(filename)s:%(lineno)d)\"\n    level_name_colors = {\n        logging.DEBUG: lambda level_name: click.style(str(level_name),\n                                                      fg=\"cyan\"),\n        logging.INFO: lambda level_name: click.style(str(level_name),\n                                                     fg=\"green\"),\n        logging.WARNING: lambda level_name: click.style(str(level_name),",
+        "detail": "nea_backend.nea_backend.app.utils.logging",
+        "documentation": {}
+    },
+    {
+        "label": "get_request_msg_args",
+        "kind": 2,
+        "importPath": "nea_backend.nea_backend.app.utils.logging",
+        "description": "nea_backend.nea_backend.app.utils.logging",
+        "peekOfCode": "def get_request_msg_args(request: Request, response: Response,\n                         process_time: float) -> tuple:\n    \"\"\"Format the message for processing a http request.\n    Args:\n        request (Request): http request.\n        response (Response): the corresponding response to the request.\n        process_time (float): process time for the http request.\n    Returns:\n        tuple: the requisite args to format the message\n    \"\"\"",
+        "detail": "nea_backend.nea_backend.app.utils.logging",
+        "documentation": {}
+    },
+    {
+        "label": "status_code_colors",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.utils.logging",
+        "description": "nea_backend.nea_backend.app.utils.logging",
+        "peekOfCode": "status_code_colors = {\n    1: lambda code: click.style(str(code), fg=\"bright_white\"),\n    2: lambda code: click.style(str(code), fg=\"green\"),\n    3: lambda code: click.style(str(code), fg=\"yellow\"),\n    4: lambda code: click.style(str(code), fg=\"red\"),\n    5: lambda code: click.style(str(code), fg=\"bright_red\"),\n}\nrequest_msg_format = \"%s:%d - \\\"%s\\\" %s - %.2fms\"\ndef get_request_msg_args(request: Request, response: Response,\n                         process_time: float) -> tuple:",
+        "detail": "nea_backend.nea_backend.app.utils.logging",
+        "documentation": {}
+    },
+    {
+        "label": "request_msg_format",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.utils.logging",
+        "description": "nea_backend.nea_backend.app.utils.logging",
+        "peekOfCode": "request_msg_format = \"%s:%d - \\\"%s\\\" %s - %.2fms\"\ndef get_request_msg_args(request: Request, response: Response,\n                         process_time: float) -> tuple:\n    \"\"\"Format the message for processing a http request.\n    Args:\n        request (Request): http request.\n        response (Response): the corresponding response to the request.\n        process_time (float): process time for the http request.\n    Returns:\n        tuple: the requisite args to format the message",
+        "detail": "nea_backend.nea_backend.app.utils.logging",
+        "documentation": {}
+    },
+    {
+        "label": "create_db_tables",
+        "kind": 2,
+        "importPath": "nea_backend.nea_backend.app.application",
+        "description": "nea_backend.nea_backend.app.application",
+        "peekOfCode": "def create_db_tables():\n    \"\"\"Create all tables in database.\"\"\"\n    Base.metadata.create_all(engine)\ndef create_application() -> FastAPI:\n    \"\"\"Create a FastAPI instance.\n    Returns:\n        object of FastAPI: the fastapi application instance.\n    \"\"\"\n    settings = get_settings()\n    application = FastAPI(title=settings.PROJECT_NAME,",
+        "detail": "nea_backend.nea_backend.app.application",
+        "documentation": {}
+    },
+    {
+        "label": "create_application",
+        "kind": 2,
+        "importPath": "nea_backend.nea_backend.app.application",
+        "description": "nea_backend.nea_backend.app.application",
+        "peekOfCode": "def create_application() -> FastAPI:\n    \"\"\"Create a FastAPI instance.\n    Returns:\n        object of FastAPI: the fastapi application instance.\n    \"\"\"\n    settings = get_settings()\n    application = FastAPI(title=settings.PROJECT_NAME,\n                          debug=settings.DEBUG,\n                          version=__version__,\n                          openapi_url=f\"{settings.API_STR}/openapi.json\")",
+        "detail": "nea_backend.nea_backend.app.application",
+        "documentation": {}
+    },
+    {
+        "label": "__version__",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.app.version",
+        "description": "nea_backend.nea_backend.app.version",
+        "peekOfCode": "__version__ = \"0.1.0\"",
+        "detail": "nea_backend.nea_backend.app.version",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.main",
+        "description": "nea_backend.nea_backend.main",
+        "peekOfCode": "app = create_application()\nsettings = get_settings()\nif __name__ == \"__main__\":\n    uvicorn.run(\"main:app\", host=\"0.0.0.0\", port=8080, reload=False)  # nosec",
+        "detail": "nea_backend.nea_backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "nea_backend.nea_backend.main",
+        "description": "nea_backend.nea_backend.main",
+        "peekOfCode": "settings = get_settings()\nif __name__ == \"__main__\":\n    uvicorn.run(\"main:app\", host=\"0.0.0.0\", port=8080, reload=False)  # nosec",
+        "detail": "nea_backend.nea_backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_version",
+        "kind": 2,
+        "importPath": "nea_backend.tests.test_api.test_base",
+        "description": "nea_backend.tests.test_api.test_base",
+        "peekOfCode": "def test_get_version(test_client):\n    response = test_client.get(\"/api/v1/version\")\n    assert response.status_code == 200\n    assert response.json() == {\"version\": __version__}",
+        "detail": "nea_backend.tests.test_api.test_base",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_settings",
+        "kind": 2,
+        "importPath": "nea_backend.tests.test_configs.test_base",
+        "description": "nea_backend.tests.test_configs.test_base",
+        "peekOfCode": "def test_get_settings(monkeypatch, mode, settings_cls):\n    get_settings.cache_clear()\n    if mode:\n        monkeypatch.setenv(\"MODE\", mode)\n    settings = get_settings()\n    # assert the settings is an instance of the corresponding settings class\n    assert isinstance(settings, settings_cls)\n    if mode:\n        monkeypatch.delenv(\"MODE\")\n@pytest.mark.parametrize(\"cors_origins, expected_result\",",
+        "detail": "nea_backend.tests.test_configs.test_base",
+        "documentation": {}
+    },
+    {
+        "label": "test_assemble_cors_origins_success",
+        "kind": 2,
+        "importPath": "nea_backend.tests.test_configs.test_base",
+        "description": "nea_backend.tests.test_configs.test_base",
+        "peekOfCode": "def test_assemble_cors_origins_success(cors_origins, expected_result):\n    s = Settings(CORS_ORIGINS=cors_origins,\n                 CORS_ORIGIN_REGEX='https:\\\\/\\\\/.*\\\\.example\\\\.?')\n    assert s.CORS_ORIGINS == expected_result\ndef test_assemble_cors_origins_fail():\n    with pytest.raises(ValueError) as e:\n        Settings(CORS_ORIGINS=None)\n    assert type(e.value) == ValidationError\n    assert len(e.value.errors()) == 1\n    assert e.value.errors()[0] == dict(loc=('CORS_ORIGINS',),",
+        "detail": "nea_backend.tests.test_configs.test_base",
+        "documentation": {}
+    },
+    {
+        "label": "test_assemble_cors_origins_fail",
+        "kind": 2,
+        "importPath": "nea_backend.tests.test_configs.test_base",
+        "description": "nea_backend.tests.test_configs.test_base",
+        "peekOfCode": "def test_assemble_cors_origins_fail():\n    with pytest.raises(ValueError) as e:\n        Settings(CORS_ORIGINS=None)\n    assert type(e.value) == ValidationError\n    assert len(e.value.errors()) == 1\n    assert e.value.errors()[0] == dict(loc=('CORS_ORIGINS',),\n                                       msg='None',\n                                       type='value_error')\ndef test_assemble_db_connection():\n    s = Settings(SQLALCHEMY_DATABASE_URI=None, POSTGRES_USER=\"postgres\", POSTGRES_PASSWORD=\"mysecretpassword\",",
+        "detail": "nea_backend.tests.test_configs.test_base",
+        "documentation": {}
+    },
+    {
+        "label": "test_assemble_db_connection",
+        "kind": 2,
+        "importPath": "nea_backend.tests.test_configs.test_base",
+        "description": "nea_backend.tests.test_configs.test_base",
+        "peekOfCode": "def test_assemble_db_connection():\n    s = Settings(SQLALCHEMY_DATABASE_URI=None, POSTGRES_USER=\"postgres\", POSTGRES_PASSWORD=\"mysecretpassword\",\n                 POSTGRES_SERVER=\"localhost:5555\", POSTGRES_DB=\"postgres\")\n    assert s.SQLALCHEMY_DATABASE_URI == \"postgresql://postgres:mysecretpassword@localhost:5555/postgres\"\ndef test_assemble_db_connection_with_uri():\n    s = Settings(SQLALCHEMY_DATABASE_URI=\"postgresql://dummy:dummy@localhost:9999/dummydb\",\n                 POSTGRES_USER=\"postgres\", POSTGRES_PASSWORD=\"mysecretpassword\",\n                 POSTGRES_SERVER=\"localhost:5555\", POSTGRES_DB=\"postgres\")\n    assert s.SQLALCHEMY_DATABASE_URI == \"postgresql://dummy:dummy@localhost:9999/dummydb\"\ndef test_assemble_db_connection_fail():",
+        "detail": "nea_backend.tests.test_configs.test_base",
+        "documentation": {}
+    },
+    {
+        "label": "test_assemble_db_connection_with_uri",
+        "kind": 2,
+        "importPath": "nea_backend.tests.test_configs.test_base",
+        "description": "nea_backend.tests.test_configs.test_base",
+        "peekOfCode": "def test_assemble_db_connection_with_uri():\n    s = Settings(SQLALCHEMY_DATABASE_URI=\"postgresql://dummy:dummy@localhost:9999/dummydb\",\n                 POSTGRES_USER=\"postgres\", POSTGRES_PASSWORD=\"mysecretpassword\",\n                 POSTGRES_SERVER=\"localhost:5555\", POSTGRES_DB=\"postgres\")\n    assert s.SQLALCHEMY_DATABASE_URI == \"postgresql://dummy:dummy@localhost:9999/dummydb\"\ndef test_assemble_db_connection_fail():\n    with pytest.raises(ValueError) as e:\n        Settings(SQLALCHEMY_DATABASE_URI=\"http://dummy:dummy@localhost:9999/dummydb\")\n    assert type(e.value) == ValidationError\n    assert len(e.value.errors()) == 1",
+        "detail": "nea_backend.tests.test_configs.test_base",
+        "documentation": {}
+    },
+    {
+        "label": "test_assemble_db_connection_fail",
+        "kind": 2,
+        "importPath": "nea_backend.tests.test_configs.test_base",
+        "description": "nea_backend.tests.test_configs.test_base",
+        "peekOfCode": "def test_assemble_db_connection_fail():\n    with pytest.raises(ValueError) as e:\n        Settings(SQLALCHEMY_DATABASE_URI=\"http://dummy:dummy@localhost:9999/dummydb\")\n    assert type(e.value) == ValidationError\n    assert len(e.value.errors()) == 1\n    assert e.value.errors()[0] == dict(ctx={'allowed_schemes': {'postgresql',\n                                                                'postgres',\n                                                                'postgresql+asyncpg',\n                                                                'postgresql+pg8000',\n                                                                'postgresql+psycopg',",
+        "detail": "nea_backend.tests.test_configs.test_base",
+        "documentation": {}
+    },
+    {
+        "label": "DummyTable",
+        "kind": 6,
+        "importPath": "nea_backend.tests.test_db.test_base",
+        "description": "nea_backend.tests.test_db.test_base",
+        "peekOfCode": "class DummyTable(Base):\n    id = Column(Integer, primary_key=True)\n    username = Column(String, unique=True, nullable=False)\n    fullname = Column(String, nullable=True)\ndef test_tablename():\n    assert DummyTable.__tablename__ == \"dummytable\"\ndef test_asdict():\n    d = DummyTable(id=1, username=\"dummy username\", fullname=\"dummy fullname\")\n    assert d._asdict() == dict(id=1, username=\"dummy username\",\n                               fullname=\"dummy fullname\")",
+        "detail": "nea_backend.tests.test_db.test_base",
+        "documentation": {}
+    },
+    {
+        "label": "test_tablename",
+        "kind": 2,
+        "importPath": "nea_backend.tests.test_db.test_base",
+        "description": "nea_backend.tests.test_db.test_base",
+        "peekOfCode": "def test_tablename():\n    assert DummyTable.__tablename__ == \"dummytable\"\ndef test_asdict():\n    d = DummyTable(id=1, username=\"dummy username\", fullname=\"dummy fullname\")\n    assert d._asdict() == dict(id=1, username=\"dummy username\",\n                               fullname=\"dummy fullname\")",
+        "detail": "nea_backend.tests.test_db.test_base",
+        "documentation": {}
+    },
+    {
+        "label": "test_asdict",
+        "kind": 2,
+        "importPath": "nea_backend.tests.test_db.test_base",
+        "description": "nea_backend.tests.test_db.test_base",
+        "peekOfCode": "def test_asdict():\n    d = DummyTable(id=1, username=\"dummy username\", fullname=\"dummy fullname\")\n    assert d._asdict() == dict(id=1, username=\"dummy username\",\n                               fullname=\"dummy fullname\")",
+        "detail": "nea_backend.tests.test_db.test_base",
+        "documentation": {}
+    },
+    {
+        "label": "test_session_scope",
+        "kind": 2,
+        "importPath": "nea_backend.tests.test_db.test_session",
+        "description": "nea_backend.tests.test_db.test_session",
+        "peekOfCode": "def test_session_scope():\n    with session_scope() as session:\n        assert isinstance(session, Session)\n@mock.patch(\"nea_backend.app.db.session.SessionLocal\")\ndef test_session_scope_fail(mocked_session_local_cls):\n    mocked_session_local_cls.return_value.commit.side_effect = Exception(\"dummy\")\n    with pytest.raises(Exception) as e:\n        with session_scope():\n            pass\n    mocked_session_local_cls.return_value.commit.assert_called_once()",
+        "detail": "nea_backend.tests.test_db.test_session",
+        "documentation": {}
+    },
+    {
+        "label": "test_session_scope_fail",
+        "kind": 2,
+        "importPath": "nea_backend.tests.test_db.test_session",
+        "description": "nea_backend.tests.test_db.test_session",
+        "peekOfCode": "def test_session_scope_fail(mocked_session_local_cls):\n    mocked_session_local_cls.return_value.commit.side_effect = Exception(\"dummy\")\n    with pytest.raises(Exception) as e:\n        with session_scope():\n            pass\n    mocked_session_local_cls.return_value.commit.assert_called_once()\n    mocked_session_local_cls.return_value.rollback.assert_called_once()\n    mocked_session_local_cls.return_value.close.assert_called_once()\n    assert str(e.value) == \"dummy\"",
+        "detail": "nea_backend.tests.test_db.test_session",
+        "documentation": {}
+    },
+    {
+        "label": "TestBaseEventHandler",
+        "kind": 6,
+        "importPath": "nea_backend.tests.test_events.test_base",
+        "description": "nea_backend.tests.test_events.test_base",
+        "peekOfCode": "class TestBaseEventHandler(TestCase):\n    def test_startup_handler(self):\n        app = create_application()\n        with self.assertLogs('nea_backend', level='INFO') as cm:\n            with TestClient(app):\n                pass\n            self.assertEqual(cm.output,\n                             ['INFO:nea_backend:Starting up ...',\n                              'INFO:nea_backend:Shutting down ...'])",
+        "detail": "nea_backend.tests.test_events.test_base",
+        "documentation": {}
+    },
+    {
+        "label": "TestLogTime",
+        "kind": 6,
+        "importPath": "nea_backend.tests.test_middlewares.test_logging",
+        "description": "nea_backend.tests.test_middlewares.test_logging",
+        "peekOfCode": "class TestLogTime(TestCase):\n    def setUp(self):\n        app = create_application()\n        self.test_client = TestClient(app)\n    @mock.patch(\"nea_backend.app.middlewares.logging.time\")\n    def test_log_time(self, mocked_time):\n        mocked_time.time.side_effect = [1, 2, 1, 2, 1, 2]\n        with self.assertLogs('nea_backend', level='INFO') as cm:\n            version_response = self.test_client.get(\"/api/v1/version\")\n            error_response = self.test_client.get(\"/api/v1/not_exist_page\")",
+        "detail": "nea_backend.tests.test_middlewares.test_logging",
+        "documentation": {}
+    },
+    {
+        "label": "test_versionresponse",
+        "kind": 2,
+        "importPath": "nea_backend.tests.test_schemas.test_base",
+        "description": "nea_backend.tests.test_schemas.test_base",
+        "peekOfCode": "def test_versionresponse():\n    vr = VersionResponse(version=\"1.0.0\")\n    assert vr.version == \"1.0.0\"",
+        "detail": "nea_backend.tests.test_schemas.test_base",
+        "documentation": {}
+    },
+    {
+        "label": "TestColorFormatter",
+        "kind": 6,
+        "importPath": "nea_backend.tests.test_utils.test_logging.test_colorformatter",
+        "description": "nea_backend.tests.test_utils.test_logging.test_colorformatter",
+        "peekOfCode": "class TestColorFormatter:\n    @pytest.mark.parametrize(\"log_level, color, expected_output\", [\n        (logging.DEBUG, \"cyan\", \"\\x1b[36mhello\\x1b[0m\"),\n        (logging.INFO, \"green\", \"\\x1b[32mhello\\x1b[0m\"),\n        (logging.WARNING, \"yellow\", \"\\x1b[33mhello\\x1b[0m\"),\n        (logging.ERROR, \"red\", \"\\x1b[31mhello\\x1b[0m\"),\n        (logging.CRITICAL, \"bright_red\", \"\\x1b[91mhello\\x1b[0m\")])\n    @mock.patch(\"nea_backend.app.utils.logging.click.style\",\n                side_effect=click.style)\n    def test_level_name_colors(self, mocked_click_style, log_level, color,",
+        "detail": "nea_backend.tests.test_utils.test_logging.test_colorformatter",
+        "documentation": {}
+    },
+    {
+        "label": "test_status_code_colours",
+        "kind": 2,
+        "importPath": "nea_backend.tests.test_utils.test_logging.test_helper",
+        "description": "nea_backend.tests.test_utils.test_logging.test_helper",
+        "peekOfCode": "def test_status_code_colours(mocked_click_style, key, color, expected_output):\n    dummy_input = \"hello\"\n    dummy_output = status_code_colors[key](dummy_input)\n    mocked_click_style.assert_called_with(dummy_input, fg=color)\n    assert dummy_output == expected_output\n@pytest.mark.parametrize(\"response_status_code, expected_status\",\n                         [(100, '100 Continue'),\n                          (200, '200 OK'),\n                          (300, '300 Multiple Choices'),\n                          (400, '400 Bad Request'),",
+        "detail": "nea_backend.tests.test_utils.test_logging.test_helper",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_request_msg_args",
+        "kind": 2,
+        "importPath": "nea_backend.tests.test_utils.test_logging.test_helper",
+        "description": "nea_backend.tests.test_utils.test_logging.test_helper",
+        "peekOfCode": "def test_get_request_msg_args(response_status_code, expected_status):\n    expected_result_format = '0.0.0.0:80 - \"\\x1b[1mGET /dummy/path ' \\\n                             'HTTP/1.1\\x1b[0m\" {} - 0.32ms'\n    request = mock.MagicMock(spec=Request,\n                             method=\"GET\",\n                             url=mock.MagicMock(path=\"/dummy/path\"),\n                             scope=dict(http_version=\"1.1\"),\n                             client=mock.MagicMock(host=\"0.0.0.0\", port=80))\n    response = mock.MagicMock(spec=Response, status_code=response_status_code)\n    host, port, method_path, status, process_time = get_request_msg_args(request, response, 0.32)",
+        "detail": "nea_backend.tests.test_utils.test_logging.test_helper",
+        "documentation": {}
+    },
+    {
+        "label": "TestStandardFormatter",
+        "kind": 6,
+        "importPath": "nea_backend.tests.test_utils.test_logging.test_standardformatter",
+        "description": "nea_backend.tests.test_utils.test_logging.test_standardformatter",
+        "peekOfCode": "class TestStandardFormatter:\n    def test_build_msg_format(self):\n        msg_format = StandardFormatter().build_msg_format()\n        assert msg_format == \"%(asctime)-22.19s %(name)-21s [%(levelname)s]:\" \\\n                             \"    %(message)s    (%(filename)s:%(lineno)d)\"\n    @pytest.mark.parametrize(\"level_no, level_name\",\n                             [(logging.DEBUG, \"DEBUG\"),\n                              (logging.INFO, \"INFO\"),\n                              (logging.WARNING, \"WARNING\"),\n                              (logging.ERROR, \"ERROR\"),",
+        "detail": "nea_backend.tests.test_utils.test_logging.test_standardformatter",
+        "documentation": {}
+    },
+    {
+        "label": "test_client",
+        "kind": 2,
+        "importPath": "nea_backend.tests.conftest",
+        "description": "nea_backend.tests.conftest",
+        "peekOfCode": "def test_client():\n    app = create_application()\n    test_client = TestClient(app)\n    return test_client\n@pytest.fixture\ndef db_session():\n    Base.metadata.create_all(engine)\n    session = SessionLocal()\n    yield session\n    session.close()",
+        "detail": "nea_backend.tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "db_session",
+        "kind": 2,
+        "importPath": "nea_backend.tests.conftest",
+        "description": "nea_backend.tests.conftest",
+        "peekOfCode": "def db_session():\n    Base.metadata.create_all(engine)\n    session = SessionLocal()\n    yield session\n    session.close()\n    Base.metadata.drop_all(engine)\n    engine.dispose()",
+        "detail": "nea_backend.tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "test_create_application",
+        "kind": 2,
+        "importPath": "nea_backend.tests.test_application",
+        "description": "nea_backend.tests.test_application",
+        "peekOfCode": "def test_create_application():\n    app = create_application()\n    assert isinstance(app, FastAPI)\n@mock.patch(\"nea_backend.app.application.get_settings\")\ndef test_create_application_with_cors_origins(mocked_get_settings):\n    mocked_get_settings.return_value = Settings(CORS_ORIGINS=\"https://example.com, https://example.de\")\n    app = create_application()\n    assert isinstance(app, FastAPI)\n    for m in app.user_middleware:\n        if isinstance(m, CORSMiddleware):",
+        "detail": "nea_backend.tests.test_application",
+        "documentation": {}
+    },
+    {
+        "label": "test_create_application_with_cors_origins",
+        "kind": 2,
+        "importPath": "nea_backend.tests.test_application",
+        "description": "nea_backend.tests.test_application",
+        "peekOfCode": "def test_create_application_with_cors_origins(mocked_get_settings):\n    mocked_get_settings.return_value = Settings(CORS_ORIGINS=\"https://example.com, https://example.de\")\n    app = create_application()\n    assert isinstance(app, FastAPI)\n    for m in app.user_middleware:\n        if isinstance(m, CORSMiddleware):\n            assert m.options == {'allow_origins': ['https://example.com', 'https://example.de'],\n                                 'allow_origin_regex': 'https:\\\\/\\\\/.*\\\\.example\\\\.?',\n                                 'allow_credentials': True,\n                                 'allow_methods': ['GET'],",
+        "detail": "nea_backend.tests.test_application",
+        "documentation": {}
+    },
+    {
+        "label": "NAME",
+        "kind": 5,
+        "importPath": "nea_backend.setup",
+        "description": "nea_backend.setup",
+        "peekOfCode": "NAME = 'nea_backend'\nSHORT_DESCRIPTION = \"FastAPI Charging Station CMS is a web-based Content Management System designed for managing electric vehicle (EV) charging stations. This project leverages FastAPI and PostgreSQL to provide a robust and scalable solution for handling charging station data, real-time communication with charging units using the OCPP protocol, and user management.\"\nURL = \"git@github.com:karkiamrit/OCPP-Protocol-demonstration.git\"\nAUTHOR = 'Amrit Jung Karki'\nEMAIL = 'amrit.karki2073@gmail.com'\ntry:\n    VERSION = import_module(NAME+\".app.version\").__version__\nexcept Exception as e:\n    print(\"Version information cannot be imported using \"\n          f\"'importlib.import_module' due to {e}.\")",
+        "detail": "nea_backend.setup",
+        "documentation": {}
+    },
+    {
+        "label": "SHORT_DESCRIPTION",
+        "kind": 5,
+        "importPath": "nea_backend.setup",
+        "description": "nea_backend.setup",
+        "peekOfCode": "SHORT_DESCRIPTION = \"FastAPI Charging Station CMS is a web-based Content Management System designed for managing electric vehicle (EV) charging stations. This project leverages FastAPI and PostgreSQL to provide a robust and scalable solution for handling charging station data, real-time communication with charging units using the OCPP protocol, and user management.\"\nURL = \"git@github.com:karkiamrit/OCPP-Protocol-demonstration.git\"\nAUTHOR = 'Amrit Jung Karki'\nEMAIL = 'amrit.karki2073@gmail.com'\ntry:\n    VERSION = import_module(NAME+\".app.version\").__version__\nexcept Exception as e:\n    print(\"Version information cannot be imported using \"\n          f\"'importlib.import_module' due to {e}.\")\n    about = dict()",
+        "detail": "nea_backend.setup",
+        "documentation": {}
+    },
+    {
+        "label": "URL",
+        "kind": 5,
+        "importPath": "nea_backend.setup",
+        "description": "nea_backend.setup",
+        "peekOfCode": "URL = \"git@github.com:karkiamrit/OCPP-Protocol-demonstration.git\"\nAUTHOR = 'Amrit Jung Karki'\nEMAIL = 'amrit.karki2073@gmail.com'\ntry:\n    VERSION = import_module(NAME+\".app.version\").__version__\nexcept Exception as e:\n    print(\"Version information cannot be imported using \"\n          f\"'importlib.import_module' due to {e}.\")\n    about = dict()\n    version_path = Path(__file__).resolve().parent.joinpath(NAME, \"app\",",
+        "detail": "nea_backend.setup",
+        "documentation": {}
+    },
+    {
+        "label": "AUTHOR",
+        "kind": 5,
+        "importPath": "nea_backend.setup",
+        "description": "nea_backend.setup",
+        "peekOfCode": "AUTHOR = 'Amrit Jung Karki'\nEMAIL = 'amrit.karki2073@gmail.com'\ntry:\n    VERSION = import_module(NAME+\".app.version\").__version__\nexcept Exception as e:\n    print(\"Version information cannot be imported using \"\n          f\"'importlib.import_module' due to {e}.\")\n    about = dict()\n    version_path = Path(__file__).resolve().parent.joinpath(NAME, \"app\",\n                                                            \"version.py\")",
+        "detail": "nea_backend.setup",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL",
+        "kind": 5,
+        "importPath": "nea_backend.setup",
+        "description": "nea_backend.setup",
+        "peekOfCode": "EMAIL = 'amrit.karki2073@gmail.com'\ntry:\n    VERSION = import_module(NAME+\".app.version\").__version__\nexcept Exception as e:\n    print(\"Version information cannot be imported using \"\n          f\"'importlib.import_module' due to {e}.\")\n    about = dict()\n    version_path = Path(__file__).resolve().parent.joinpath(NAME, \"app\",\n                                                            \"version.py\")\n    exec(version_path.read_text(), about)",
+        "detail": "nea_backend.setup",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALL_REQUIRED",
+        "kind": 5,
+        "importPath": "nea_backend.setup",
+        "description": "nea_backend.setup",
+        "peekOfCode": "INSTALL_REQUIRED = _parse_requirements(os.path.join(\"requirements\", \"base.txt\"))\n# Optional requirements\nDEV_REQUIRED = _parse_requirements(os.path.join(\"requirements\", \"dev.txt\"))\nDOC_REQUIRED = _parse_requirements(os.path.join(\"requirements\", \"doc.txt\"))\n# What packages are optional?\nEXTRAS = {\"doc\": DOC_REQUIRED}\nsetup(name=NAME,\n      version=VERSION,\n      author=AUTHOR,\n      author_email=EMAIL,",
+        "detail": "nea_backend.setup",
+        "documentation": {}
+    },
+    {
+        "label": "DEV_REQUIRED",
+        "kind": 5,
+        "importPath": "nea_backend.setup",
+        "description": "nea_backend.setup",
+        "peekOfCode": "DEV_REQUIRED = _parse_requirements(os.path.join(\"requirements\", \"dev.txt\"))\nDOC_REQUIRED = _parse_requirements(os.path.join(\"requirements\", \"doc.txt\"))\n# What packages are optional?\nEXTRAS = {\"doc\": DOC_REQUIRED}\nsetup(name=NAME,\n      version=VERSION,\n      author=AUTHOR,\n      author_email=EMAIL,\n      description=SHORT_DESCRIPTION,\n      long_description=LONG_DESCRIPTION,",
+        "detail": "nea_backend.setup",
+        "documentation": {}
+    },
+    {
+        "label": "DOC_REQUIRED",
+        "kind": 5,
+        "importPath": "nea_backend.setup",
+        "description": "nea_backend.setup",
+        "peekOfCode": "DOC_REQUIRED = _parse_requirements(os.path.join(\"requirements\", \"doc.txt\"))\n# What packages are optional?\nEXTRAS = {\"doc\": DOC_REQUIRED}\nsetup(name=NAME,\n      version=VERSION,\n      author=AUTHOR,\n      author_email=EMAIL,\n      description=SHORT_DESCRIPTION,\n      long_description=LONG_DESCRIPTION,\n      long_description_content_type='text/markdown',",
+        "detail": "nea_backend.setup",
+        "documentation": {}
+    },
+    {
+        "label": "EXTRAS",
+        "kind": 5,
+        "importPath": "nea_backend.setup",
+        "description": "nea_backend.setup",
+        "peekOfCode": "EXTRAS = {\"doc\": DOC_REQUIRED}\nsetup(name=NAME,\n      version=VERSION,\n      author=AUTHOR,\n      author_email=EMAIL,\n      description=SHORT_DESCRIPTION,\n      long_description=LONG_DESCRIPTION,\n      long_description_content_type='text/markdown',\n      url=URL,\n      packages=find_packages(include=[\"nea_backend*\"],",
+        "detail": "nea_backend.setup",
+        "documentation": {}
+    }
+]
